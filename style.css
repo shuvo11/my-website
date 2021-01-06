@@ -1,0 +1,31 @@
+h1{
+    color: rgba(42, 165, 128, 0.808);
+   
+}
+p{
+    color: darkblue;
+    font-size: larger;
+    font-weight: 700;
+    font-family: sans-serif;
+    text-align: justify;
+}
+#bokacela{
+    font-size: larger;
+    color: tomato;
+}
+.new{
+    border: 1px solid red;
+    border-radius: 10px;
+    margin: 10px;
+    width: 23%;
+   display: inline-block;
+   }
+   .dada{
+       border: 1px dotted tomato;
+       border-radius: 10px;
+       margin: 5px;
+       padding: 5px;
+       width: 48%;  
+       display: inline-block;
+    
+    }
